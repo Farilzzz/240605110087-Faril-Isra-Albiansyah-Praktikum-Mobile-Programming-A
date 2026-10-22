@@ -1,0 +1,43 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+**/doc/api/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android/Gradle dan konfigurasi lokal
+.gradle/
+**/local.properties
+*.jks
+*.keystore
+*.p12
+*.pfx
+key.properties
+
+# Secrets dan service account
+.env
+.env.*
+*service-account*.json
+*service_account*.json
+*credentials*.json
+*private-key*
+*private_key*
+id_rsa*
+
+# Logs/temp/cache OS
+*.log
+*.tmp
+*.bak
+*.swp
+logs/
+tmp/
+temp/
+.cache/
+.DS_Store
+Thumbs.db
