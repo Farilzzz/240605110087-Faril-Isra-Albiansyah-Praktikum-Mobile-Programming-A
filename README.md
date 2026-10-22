@@ -41,7 +41,3 @@ Repository pengumpulan lokal berisi **20 proyek Flutter** dari Modul 1–11 dan 
 ## Cara umum menjalankan proyek
 
 Masuk ke folder proyek, lalu jalankan `flutter pub get`, `flutter devices`, dan `flutter run -t lib/main.dart`. Detail package, fitur, batasan, dan tautan laporan tersedia pada README tiap proyek.
-
-## Catatan
-
-Folder build/cache/IDE, konfigurasi mesin lokal, log, dan berkas rahasia potensial tidak disertakan. `pubspec.lock`, source platform, aset, test, dan dokumentasi proyek dipertahankan. Repository belum diinisialisasi Git dan belum dikirim ke remote.
